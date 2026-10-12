@@ -1,0 +1,7 @@
+ar/*.txt
+en/*.txt
+book.json
+contents.json
+source/
+keywords.html
+.claude/
